@@ -8,8 +8,8 @@ Primary Database Mongodb
 
 #### See my projects with language & technology.
 
-> E-commerce API
+> E-commerce API `Language:- Typescript`, `Framework:- Nest Js`, `Database:- Mongodb`
 
 My Contact Details 
 
-📧:- _mores9785@gmail.com_
+Email Id:- _mores9785@gmail.com_
