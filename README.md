@@ -1,11 +1,15 @@
 ### Hi there 👋,
 I am Shubham More, from Pune Maharashtra India 🇮🇳
-My primary language Javascript, Typescript and Javascript frameworks ( React Js, Next Js, Vue Js, Nuxt Js, Angular Js, Express Js, Nest Js )
+My primary language Javascript, Typescript and Javascript based frameworks
+Secondary language Java
 Primary Database Mongodb
+Secondary Database SQLite 
 
+----
 
-<a href="https://www.buymeacoffee.com/ShubhamMore"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=ShubhamMore&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
-
+#### Current Working Project
+**POS**
+> (Front End)[https://github.com/More-Shubham/pos-my-web-app]
 
 My Contact Details 
 
