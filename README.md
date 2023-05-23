@@ -7,10 +7,4 @@ Secondary Database SQLite
 
 ----
 
-#### Current Working Project
-**POS**
-> (Front End)[https://github.com/More-Shubham/pos-my-web-app]
-
-My Contact Details 
-
 Email Id:- _mores9785@gmail.com_
