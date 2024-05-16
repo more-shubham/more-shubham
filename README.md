@@ -3,6 +3,9 @@
 # 💫 About Me:
 🔭 I’m currently working on Nuxt Js<br>👯 I’m looking to collaborate on Next Js<br>🤝 I’m looking for help with Next Js<br>🌱 I’m currently learning Django<br>💬 Ask me about Node Js & Nest Js & Next Js<br>⚡ Fun fact is coding
 
+---
+[![](https://visitcount.itsvg.in/api?id=More-Shubham&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-shubham-more) 
@@ -22,8 +25,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=More-Shubham&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=More-Shubham&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
