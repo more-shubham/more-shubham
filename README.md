@@ -1,8 +1,13 @@
 # Hii ✋, I am Shubham More
 
 # 💫 About Me:
-🔭 I’m currently working on Nuxt Js<br>👯 I’m looking to collaborate on Next Js<br>🤝 I’m looking for help with Next Js<br>🌱 I’m currently learning Django<br>💬 Ask me about Node Js & Nest Js & Next Js<br>⚡ Fun fact is coding
 
+- 🔭 I’m currently working on enhancing my skills in the MERN/MEVN stack to build robust web applications.
+- 👯 I’m looking to collaborate on exciting projects that utilize modern technologies and push boundaries in web development.
+- 🤝 I’m looking for help with optimizing performance and scalability in my MERN/MEVN projects.
+- 🌱 I’m currently learning advanced techniques in React/Vue.js to create more dynamic and responsive user interfaces.
+- 💬 Ask me about the latest trends in web development or how to troubleshoot common issues in MERN/MEVN development.
+- ⚡ Fun fact is the term "stack" in MERN/MEVN refers to the combination of technologies used for front-end and back-end development, creating a cohesive and efficient development environment.
 ---
 [![](https://visitcount.itsvg.in/api?id=More-Shubham&icon=0&color=0)](https://visitcount.itsvg.in)
 
