@@ -3,6 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shubham&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=white" width="100%" alt="Header Banner">
 </div>
 
+<!-- Profile Views counter in absolute position -->
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=more-shubham&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
+
 <!-- Introduction Section -->
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 <h3 align="center">Software Engineer | Full Stack Developer | MERN/PERN/MEVN Stack</h3>
@@ -10,16 +15,6 @@
 <p align="center">
   <b>💻 Building scalable web applications with modern JavaScript frameworks and tools</b><br>
   <b>🚀 Turning ideas into production-ready applications</b>
-</p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=more-shubham&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=more-shubham&theme=onedark&row=1&margin-w=15" alt="Trophy" />
-  </a>
 </p>
 
 ---
@@ -136,19 +131,6 @@ I'm actively building a portfolio of production-level projects that demonstrate 
 - 🏆 **Results-oriented** focus on delivering business value through technology
 
 ---
-
-<!-- GitHub Stats 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=more-shubham&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=more-shubham&theme=radical&hide_border=true" align="center" />
-</div>
-<br/>
-
----
-
--->
 
 <!-- Connect With Me -->
 ## 🌐 Connect With Me
