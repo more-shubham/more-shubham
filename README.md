@@ -137,7 +137,7 @@ I'm actively building a portfolio of production-level projects that demonstrate 
 
 ---
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats 
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -147,6 +147,8 @@ I'm actively building a portfolio of production-level projects that demonstrate 
 <br/>
 
 ---
+
+-->
 
 <!-- Connect With Me -->
 ## 🌐 Connect With Me
