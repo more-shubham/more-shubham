@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=T-Shaped+Software+Engineer;Deep+Expertise+in+Golang;Broad+Full-Stack+Versatility;Based+in+India+🇮🇳" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=T-Shaped+Software+Engineer;Deep+Expertise+in+Golang;Broad+Full-Stack+Versatility;Based+in+India+🇮🇳" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -37,14 +37,14 @@
 ### 🏆 GitHub Activity & Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=more-shubham&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=more-shubham&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&v=1" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=more-shubham&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=more-shubham&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api?username=more-shubham&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=more-shubham&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" />
 </div>
 
 ---
