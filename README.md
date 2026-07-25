@@ -1,31 +1,30 @@
-# Hi, I'm Shubham More 👋
+# Shubham More
+**Senior Software Engineer & System Architect**  
+📍 Based in Pune, India 🇮🇳 · ⚡ *Available for Senior / Staff / Lead Engineering & Architecture Roles Worldwide*
 
-**Full-Stack & Systems Engineer**  
-📍 Based in Pune, India 🇮🇳
-
-Since **March 13, 2022**, I have maintained a continuous, disciplined habit of software engineering—building production-grade applications while constantly exploring new architectural patterns. I specialize in developing scalable web services, API integrations, and modern frontend platforms.
-
----
-
-### 💻 Production & Corporate Tech Stack
-
-- 🚀 **Backend & Core:** Node.js · Express.js · Go (Golang) · TypeScript · JavaScript
-- 🎨 **Frontend:** Vue.js · React.js
-- 🗄️ **Databases & Cache:** PostgreSQL · MongoDB · Redis
-- ☁️ **Cloud, Auth & Infra:** AWS · Azure · Firebase Authentication · Docker · REST APIs
+Architecting scalable distributed systems, high-throughput microservices, and resilient full-stack platforms. Specializing in Node.js, Go, TypeScript, and cloud-native database architectures with an emphasis on system performance, fault tolerance, and clean domain design.
 
 ---
 
-### 🧠 Exploratory Learning & Curiosity
+### 🏗️ Production Architecture & Stack
 
-Outside of my core production stack, I am driven by technical curiosity. I enjoy exploring different programming paradigms and syntax to understand how systems work under the hood:
-- **Exploration & Concepts:** Java · .NET · Python · C++ · Ruby
+- ⚡ **Backend & Distributed Systems:** Node.js · Express.js · Go (Golang) · TypeScript · JavaScript
+- 🎨 **Frontend Platforms:** Vue.js · React.js
+- 🗄️ **Data & Storage Architecture:** PostgreSQL · MongoDB · Redis
+- ☁️ **Cloud Infrastructure & Security:** AWS · Azure · Firebase Auth · Docker · Microservices · REST APIs
 
 ---
 
-### 🌐 Connect With Me
+### 🔬 Multi-Language Paradigm Mastery
+
+In addition to core production stacks, experienced in evaluating system paradigms and language runtimes for optimal architectural choices:
+- Java · .NET · Python · C++ · Ruby
+
+---
+
+### 📬 Executive & Hiring Contacts
 
 - 💼 **LinkedIn:** [shubhammore-dev](https://www.linkedin.com/in/shubhammore-dev/)
 - 🌐 **Portfolio:** [shubham-more.me](https://shubham-more.me/)
-- 📬 **Email:** [hi@shubham-more.me](mailto:hi@shubham-more.me)
-- 🐦 **X (Twitter):** [@_MoreShubham](https://x.com/_MoreShubham)
+- 📧 **Email:** [hi@shubham-more.me](mailto:hi@shubham-more.me)
+- 🐦 **X:** [@_MoreShubham](https://x.com/_MoreShubham)
