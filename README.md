@@ -4,6 +4,8 @@
 I build high-performance backend systems, scalable web apps, and robust integrations. 
 Always exploring new technologies and solving complex architectural problems.
 
+⚡ *Open for Senior / High-Impact Software Engineering Roles Worldwide*
+
 ---
 
 ### 💻 Technologies & Architecture
