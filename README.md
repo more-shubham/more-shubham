@@ -1,25 +1,24 @@
 # Shubham More
-**Senior Software Engineer & System Architect**  
-📍 Based in Pune, India 🇮🇳 · ⚡ *Available for Senior / Staff / Lead Engineering & Architecture Roles Worldwide*
+**Senior Software Engineer**  
+📍 Based in Pune, India 🇮🇳 · ⚡ *Open to Senior Engineering roles*
 
-Architecting scalable distributed systems, high-throughput microservices, and resilient full-stack platforms. Specializing in Node.js, Go, Python, TypeScript, and cloud-native database architectures with an emphasis on system performance, fault tolerance, and clean domain design.
+Building scalable distributed systems, high-throughput microservices, and resilient full-stack platforms. Specializing in Node.js, Go, Python, TypeScript, and cloud-native database design, with an emphasis on system performance, fault tolerance, and clean domain design.
 
 ---
 
-### 🏗️ Production Architecture & Stack
+### 🏗️ Stack
 
 - ⚡ **Backend & Distributed Systems:** Node.js · Express.js · Go (Golang) · Python · TypeScript · JavaScript
 - 🎨 **Frontend Platforms:** Vue.js · React.js
-- 🗄️ **Data & Storage Architecture:** PostgreSQL · MongoDB · Redis
-- ☁️ **Cloud Infrastructure & Security:** AWS · Azure · Firebase Auth · Docker · Microservices · REST APIs
+- 🗄️ **Data & Storage:** PostgreSQL · MongoDB · Redis
+- ☁️ **Cloud Infrastructure:** AWS · Docker · Microservices · REST APIs
 
 ---
 
-### ⚙️ Engineering Principles & System Mindset
+### ⚙️ Engineering Principles
 
 - **Pragmatic Architecture:** I select tools based on system requirements, data throughput, and maintainability—balancing rapid iteration with long-term stability.
 - **Data-Driven Performance:** Experienced in optimizing query execution, caching strategies (Redis), and asynchronous processing to eliminate backend bottlenecks.
-- **Polyglot Fluency:** Comfortable evaluating language runtimes (Java, .NET, C++, Ruby) to choose optimal solutions for specific workload requirements.
 
 ---
 
