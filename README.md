@@ -33,11 +33,6 @@ Always exploring new technologies and solving complex architectural problems.
 
 ### 📊 GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=more-shubham&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=2" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=more-shubham&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=2" />
-</div>
-
 <br/>
 
 <div align="center">
